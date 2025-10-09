@@ -4,9 +4,6 @@ resource "aws_lb" "web" {
   load_balancer_type = "application"
   security_groups    = [aws_security_group.alb.id]
   subnets            = var.public_subnets
-
-  enable_deletion_protection = true
-
   tags = {
     Environment = "production"
   }

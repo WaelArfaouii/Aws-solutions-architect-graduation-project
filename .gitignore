@@ -39,3 +39,6 @@ terraform.rc
 # IntelliJ IDEA project files
 .idea/
 *.iml
+
+./project-2-serverless-image-processing
+./project-3-serverless-rest-api
