@@ -40,5 +40,6 @@ terraform.rc
 .idea/
 *.iml
 
-./project-2-serverless-image-processing
-./project-3-serverless-rest-api
+# Ignore project directories for project 2 and 3
+project-2-serverless-image-processing/
+project-3-serverless-rest-api/
