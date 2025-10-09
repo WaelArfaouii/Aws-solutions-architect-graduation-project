@@ -1,4 +1,4 @@
-# AWS Solutions Architect – Associate Graduation Projects
+# AWS Solutions Architect – Associate Graduation Project
 
 ## **Author:** Wael Arfaoui
 
@@ -60,11 +60,4 @@ Deploy a web application on AWS using **EC2 instances** behind an **Application 
 
 ![Project 1 Architecture](./project-1-scalable-webapp-alb-asg/architecture-diagram.png)
 
----
 
-## 👨‍💻 Author
-
-**Wael Arfaoui**
-**Cloud & DevOps Engineer** from Tunisia
-📧 Email: [wael.arfaaoui@gmail.com](mailto:wael.arfaaoui@gmail.com)
-🔗 [LinkedIn – Wael Arfaoui](https://www.linkedin.com/in/wael-arfaoui-2b5503213/)
