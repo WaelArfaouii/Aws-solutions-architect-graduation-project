@@ -10,14 +10,14 @@
 
 ## 📘 Project Overview
 
-This repository contains three AWS-based graduation project designed to demonstrate proficiency in **cloud architecture**, **scalability**, and **DevOps automation practices **.
+This repository contains AWS-based graduation project designed to demonstrate proficiency in **cloud architecture**, **scalability**, and **DevOps automation practices **.
 
 The project includes:
 
-* **Solution Architecture Diagram** (to be displayed at the end of each project section)
+* **Solution Architecture Diagram** (to be displayed at the end of the section)
 * **Documentation & Implementation Guide** (in README)
 * **Infrastructure-as-Code (IaC)** templates using **Terraform modules**
-* **Optional Demo:** Deployed or recorded demonstration on AWS
+* **Demo:** Deployed or recorded demonstration on AWS
 
 ---
 
@@ -60,4 +60,7 @@ Deploy a web application on AWS using **EC2 instances** behind an **Application 
 
 ![Project 1 Architecture](./project-1-scalable-webapp-alb-asg/architecture-diagram.png)
 
+### 📊 Demo link 
+
+https://drive.google.com/file/d/1ieuXNC76aLLFP3PFj9PMI7lKDIsYruLG/view?usp=drive_link
 
